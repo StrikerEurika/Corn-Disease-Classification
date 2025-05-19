@@ -62,3 +62,34 @@ Class names:  ['Blight', 'Common_Rust', 'Gray_Leaf_Spot', 'Healthy']
 [Gray leaf spot on corn from Menisota University](https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn)
 
 [Corn Leaf Blight from Menisota University](https://extension.umn.edu/corn-pest-management/northern-corn-leaf-blight)
+
+## **Set Up Project**
+
+
+**Clone Repo**
+
+```bash
+# Clone the repository
+git clone git@github.com:StrikerEurika/Corn-Disease-Classification.git
+
+# navigate to the project directory
+cd Corn-Disease-Classification
+```
+**Create Virtual Envirinment**
+
+```bash
+# Create a virtual environment
+python -m venv venv
+# Activate the virtual environment
+# For Windows
+venv\Scripts\activate
+# For MacOS/Linux
+source venv/bin/activate
+```
+
+**Install Requirements**
+
+```bash
+# Install the required packages
+pip install -r requirements.txt
+```

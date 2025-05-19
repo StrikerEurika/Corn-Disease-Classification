@@ -178,3 +178,4 @@ datasets/
 assets/
 models/
 models/pre_trained_models/
+*.zip
