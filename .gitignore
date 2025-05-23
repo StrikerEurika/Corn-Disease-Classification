@@ -175,7 +175,7 @@ cython_debug/
 
 # ignore dataset preventing warning from github
 datasets/
-assets/
 models/
+model_weights/
 models/pre_trained_models/
 *.zip
